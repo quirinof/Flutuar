@@ -1,8 +1,19 @@
+#main {
+  width: 626px;
+  margin: 64px 199px;
+}
+
+#main img {
+  margin: 0 138px 32px;
+}
+
 h1 {
   font-family: 'Dosis', sans-serif;
   color: #3F3D56;
   font-size: 32px;
   font-weight: 500;
+  margin: 0 66px 16px;
+  text-align: center;
 }
 
 h1 span {
@@ -15,6 +26,8 @@ p {
   color: #828282;
   font-size: 15px;
   font-weight: 400;
+  margin: 0 36px 32px 50px;
+  text-align: center;
 }
 
 p span {
