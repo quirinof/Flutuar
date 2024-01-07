@@ -61,4 +61,9 @@ p span {
   margin: 0 auto 16px;
 }
 
-
+#wave {
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+}
